@@ -635,5 +635,3 @@ RuleEngine engine = RuleEngine.builder()
 | **Spring Boot integration** | Wrap as a `@Service` bean; inject rules as `List<RestrictionRule>` via Spring component scan |
 
 ---
-
-*🌀 Magic applied with [Wibey VS Code Extension](https://wibey.walmart.com/code) 🪄*
